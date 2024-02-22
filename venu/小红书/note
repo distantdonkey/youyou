@@ -25,4 +25,4 @@ https://creator.xiaohongshu.com/api/galaxy/creator/data/note_stats/new?page=1&pa
 其中page表示页码;
 page_size表示每页条数，最大为48;
 note_type笔记类型：0全部、1图文、2视频
-time发布时间：7、30
+time发布时间：7、30   7天和30天
