@@ -1,0 +1,4 @@
+（1）map、apply在用于Series时，对每一个值进行处理，两者并没有什么区别。（是否受数据量影响可以自行验证）
+（2）apply不仅可以用于Series，还可以用于DataFrame；而map只能用于Series。
+（3）一般情况下，apply应用更广泛，尤其是自定义函数带多个参数时，建议使用apply。
+applymap（） 将函数做用于DataFrame中的所有元素(elements)
